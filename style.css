@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+footer{
+  color: white;
+  display: flex;
+  background-color: #151719;
+  width:100%; 
+  text-align: center;
+}
+
+.infoBlockFooter1{
+  width:45%; 
+  flex-direction:column;
+  border:1px solid red;
+  padding:5%; 
+}
+
+.infoBlockFooter2{
+  width:45%;
+  margin-left:10%;
+  flex-direction:column; 
+  border:1px solid blue; 
+  padding:5%;
+}
+
+.inFooter{
+  border:1px solid yellow; 
+}
