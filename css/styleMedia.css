@@ -1,0 +1,22 @@
+@media (min-width: 1720px) and (max-width: 1920px) {
+.logoLemon{
+  margin-top:250px; 
+  margin-bottom:125px;
+}
+
+.smallLogo{
+  width:25%;
+}
+
+.menu{
+  width:50%;
+}
+
+.search{
+  width:25%;
+}
+
+}
+
+@media (min-width: 200px) and (max-width: 1000px) {
+}
